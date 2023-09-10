@@ -11,3 +11,7 @@ ADD tinysort/filtering to the search bar
 Style the side panel more
 
 Add Rarity column to database.
+
+Add Handling
+
+Add Popup with animation?
