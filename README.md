@@ -15,3 +15,5 @@ Add Rarity column to database.
 Add Handling
 
 Add Popup with animation?
+
+Boneforce is wrong.
